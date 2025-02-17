@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New playlist</name>
+   <tag></tag>
+   <elementGuidId>20415b57-0a06-49cd-a14e-ff826dddbd25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Type__TypeElement-sc-goli3j-0.dOtTDl.ellipsis-one-line.htqz7Vb8mLJvGKTi1vrs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tippy-110']/ul/div/li[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;New playlist&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85d1407b-0871-40ac-9afd-ecad47726184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>a58fe92e-cb54-4fb7-a8ad-ea9f3cfc701b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Type__TypeElement-sc-goli3j-0 dOtTDl ellipsis-one-line htqz7Vb8mLJvGKTi1vrs</value>
+      <webElementGuid>d77c8389-6808-471c-8c81-a9575e9004d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-encore-id</name>
+      <type>Main</type>
+      <value>type</value>
+      <webElementGuid>d0c591c9-823f-4111-9c66-30c51bc695ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New playlist</value>
+      <webElementGuid>f7424011-e7a5-47d3-988c-3b986ba4dd18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tippy-110&quot;)/ul[@class=&quot;NbcaczStd8vD2rHWwaKv&quot;]/div[@class=&quot;i8EjndRQjYlli0aLGYEm&quot;]/li[@class=&quot;rQ6LXqVlEOGZdGIG0LgP&quot;]/button[@class=&quot;mWj8N7D_OlsbDgtQx5GW Vz3pFUXmll6fKB5Fc4nd&quot;]/span[@class=&quot;Type__TypeElement-sc-goli3j-0 dOtTDl ellipsis-one-line htqz7Vb8mLJvGKTi1vrs&quot;]</value>
+      <webElementGuid>e3dc84c0-83e6-4149-b0a1-4f3163a3e926</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tippy-110']/ul/div/li[2]/button/span</value>
+      <webElementGuid>9a346da3-f83c-4ecf-aa46-38e50c279bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to playlist'])[1]/following::span[3]</value>
+      <webElementGuid>5b3a7166-69ab-4a74-93fe-757e24d2721f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[4]</value>
+      <webElementGuid>25800aa3-bd7e-4cd9-879b-b16d9eaea6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leh Lsa'])[4]/preceding::span[1]</value>
+      <webElementGuid>45ce102e-1589-404e-a4f6-38a1f2f3921c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kan Nefsy'])[4]/preceding::span[2]</value>
+      <webElementGuid>e135ecf5-cbac-44ff-83c3-6009a125dd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New playlist']/parent::*</value>
+      <webElementGuid>180975e7-6c27-462d-9e1b-0a8ed1843b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[2]/button/span</value>
+      <webElementGuid>6a0a76fc-a42a-449b-a9d7-e5e81ca6e041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'New playlist' or . = 'New playlist')]</value>
+      <webElementGuid>58488258-031d-4a6b-bc43-5fe1fb102c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

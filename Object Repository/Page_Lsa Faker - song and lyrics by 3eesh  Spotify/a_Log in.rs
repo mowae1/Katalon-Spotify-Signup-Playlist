@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log in</name>
+   <tag></tag>
+   <elementGuidId>1b499ae5-a57a-4bc2-86d5-4dcede4bdbcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Link-sc-k8gsk-0.eTBDM.e-9541-text-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[3]/div/div/div[2]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Log in&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>19dbf42c-5908-4de8-98ef-e62406a46ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0fc306c7-2194-4109-a596-66f20f39dced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Link-sc-k8gsk-0 eTBDM e-9541-text-link</value>
+      <webElementGuid>44b73267-c1ae-4656-8c08-e4efcdf219bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-encore-id</name>
+      <type>Main</type>
+      <value>textLink</value>
+      <webElementGuid>4d895440-caea-4bae-9d7a-f551a031c931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>5a8a168b-43a7-42b8-8937-2bccb84c9030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;Root global-nav centered-layout&quot;]/div[@class=&quot;dialog ftlV6Ixmq4wkKMg7hJ1v&quot;]/div[@class=&quot;anllJYN1jeYGGE1iAJUJ&quot;]/div[@class=&quot;SVnAziPF2z_cgAGrp6He UmY163JiUcgJt2MKNyGW&quot;]/div[@class=&quot;miG_SXrw265mkozdEHrJ&quot;]/p[@class=&quot;kRjJnLKzSkQegtH6S7zD&quot;]/a[@class=&quot;Link-sc-k8gsk-0 eTBDM e-9541-text-link&quot;]</value>
+      <webElementGuid>683dff46-adac-4bc0-921b-5a4222f417d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[3]/div/div/div[2]/p/a</value>
+      <webElementGuid>afaa23ea-2fd1-493b-a8ba-e0fd6dc20286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log in')]</value>
+      <webElementGuid>bceaf666-4b61-4201-802a-2b1ddc20212a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already have an account?'])[1]/following::a[1]</value>
+      <webElementGuid>296366bb-2b12-499c-a602-e1d5ae6a922c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download app'])[1]/following::a[1]</value>
+      <webElementGuid>add0a383-ed27-4005-9f50-02bdfcb02337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[1]</value>
+      <webElementGuid>25d60487-f299-430b-97da-e60d0c119415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a language'])[1]/preceding::a[1]</value>
+      <webElementGuid>98ee0bda-8a88-494c-90de-232c5472198c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>21b790ff-af06-4a1e-b0f2-3b6c1f199875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>dbe8febe-481d-41f3-9ec1-ca0f745b5022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>59d6df1e-1add-400a-97af-ced55a6c60fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New playlist</name>
+   <tag></tag>
+   <elementGuidId>0873afa8-e973-486e-b867-7556688e4989</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mWj8N7D_OlsbDgtQx5GW.Vz3pFUXmll6fKB5Fc4nd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tippy-219']/ul/div/li[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;New playlist&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8f4c7151-ea9e-4d86-9d48-d8d3982fd9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mWj8N7D_OlsbDgtQx5GW Vz3pFUXmll6fKB5Fc4nd</value>
+      <webElementGuid>88f34fcc-aee3-4f17-8357-721ccd9cece5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>898349b3-034e-4df2-8b7b-00094fde6fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8e499b65-81b3-4242-b514-f9f8b5fc2cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New playlist</value>
+      <webElementGuid>35ec724f-fa08-4a98-87c0-f2395437372c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tippy-219&quot;)/ul[@class=&quot;NbcaczStd8vD2rHWwaKv&quot;]/div[@class=&quot;i8EjndRQjYlli0aLGYEm&quot;]/li[@class=&quot;rQ6LXqVlEOGZdGIG0LgP&quot;]/button[@class=&quot;mWj8N7D_OlsbDgtQx5GW Vz3pFUXmll6fKB5Fc4nd&quot;]</value>
+      <webElementGuid>2effd11a-edf0-4948-a2bc-636aed302aac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tippy-219']/ul/div/li[2]/button</value>
+      <webElementGuid>add31ed9-c788-47f8-9715-63ffa2a51635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to playlist'])[1]/following::button[2]</value>
+      <webElementGuid>37f756c1-c910-4ffc-b68e-a0f21671711c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[3]</value>
+      <webElementGuid>f21c33dc-0b8b-4dd5-ac5b-b345516097ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kan Nefsy'])[6]/preceding::button[1]</value>
+      <webElementGuid>b93c81ce-e9a3-4521-b108-160b5374e3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[2]/button</value>
+      <webElementGuid>1c63aa91-ea35-484a-9e74-7ab602d2987f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'New playlist' or . = 'New playlist')]</value>
+      <webElementGuid>49ef4550-1911-471b-9f8f-fdcabe20a3a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

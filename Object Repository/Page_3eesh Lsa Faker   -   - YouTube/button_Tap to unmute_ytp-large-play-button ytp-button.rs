@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tap to unmute_ytp-large-play-button ytp-button</name>
+   <tag></tag>
+   <elementGuidId>37f9a7f6-6ddf-4b46-967a-746c5f1630d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-large-play-button.ytp-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[6]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Play&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fd39d4f-67be-43bd-82fb-3dc867e596f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-large-play-button ytp-button</value>
+      <webElementGuid>308a6560-e6cd-47c7-9d1b-c1e7da3a8a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>271c761e-f457-4f05-94fe-839a7d96c514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Play</value>
+      <webElementGuid>898e1573-ca1a-43b0-a890-30f4ed5aca24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-cued-thumbnail-overlay&quot;]/button[@class=&quot;ytp-large-play-button ytp-button&quot;]</value>
+      <webElementGuid>7962f0b4-516b-4115-9a03-9955bcc831fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[6]/button</value>
+      <webElementGuid>0565dfd9-8526-46a4-ac53-55a6372a2878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap to unmute'])[1]/following::button[3]</value>
+      <webElementGuid>0a97ab3e-d856-4de9-8519-9a14d1ba51f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping'])[1]/following::button[5]</value>
+      <webElementGuid>c68e232e-56b3-483e-8d6a-074d5b975a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pull up for precise seeking'])[1]/preceding::button[1]</value>
+      <webElementGuid>4ca0b18a-7d7b-45cf-87b9-763596072d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>a17e42ad-13b8-402c-9b58-d022e2e1a240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Play']</value>
+      <webElementGuid>0f434ff7-c665-43a7-b17f-d1f769b10b27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_We use your gender to help personalize our content recommendations and ads for you_Indicator-sc-hjfusp-0 jRuGOG</name>
+   <tag></tag>
+   <elementGuidId>29cbd57e-6daf-4a38-b087-8bd9f5ef17bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Indicator-sc-hjfusp-0.jRuGOG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/main/section/div/form/div/div[2]/div/section/div[3]/fieldset/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=/^Man$/ >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3cd49e2-a15e-49c0-b1c1-5432044502d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Indicator-sc-hjfusp-0 jRuGOG</value>
+      <webElementGuid>857cdc5b-d553-4c07-af00-3f35c3b855d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/main[@class=&quot;sc-ifyrTC sXlyP&quot;]/section[@class=&quot;sc-dENhDJ pTLoS&quot;]/div[@class=&quot;sc-eEPDDI iuoPVV&quot;]/form[@class=&quot;sc-jHofgq hutrlF&quot;]/div[@class=&quot;sc-foMnoT eRzPLz&quot;]/div[@class=&quot;sc-flUsNl jEqkys&quot;]/div[@class=&quot;sc-iRFtIJ gwyVer&quot;]/section[@class=&quot;sc-jRHPII heuiTy&quot;]/div[@class=&quot;sc-igCFZZ kKSA-dr&quot;]/fieldset[@class=&quot;sc-iKTcqh bNSMBG&quot;]/div[@class=&quot;sc-la-DxNn eSxxkR&quot;]/div[@class=&quot;sc-iCZwEW gYGJyK&quot;]/div[@class=&quot;Radio-sc-tr5kfi-0 icoMsB&quot;]/label[@class=&quot;Label-sc-17gd8mo-0 jfeZEA&quot;]/span[@class=&quot;Indicator-sc-hjfusp-0 jRuGOG&quot;]</value>
+      <webElementGuid>07639b43-9a8e-46d0-a5d7-0792c25f4071</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/main/section/div/form/div/div[2]/div/section/div[3]/fieldset/div/div/div/label/span</value>
+      <webElementGuid>fd9083c1-6707-4f4e-b798-8028738c4271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>efc179bc-763f-45d6-98b6-7a37e35e2b51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

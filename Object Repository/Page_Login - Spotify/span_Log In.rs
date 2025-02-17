@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log In</name>
+   <tag></tag>
+   <elementGuidId>e3ca0a17-1cc3-430b-959d-cdd2f0fcdf86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='login-button']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;login-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>779e7aa1-d932-4f43-9968-7b8449ebad2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ButtonInner-sc-14ud5tc-0 hvvTXU encore-bright-accent-set</value>
+      <webElementGuid>5cc569d3-be4a-475a-bd12-6b90ea6374be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>f195c5a3-558f-4b8e-92e4-19d77274ad3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-button&quot;)/span[@class=&quot;ButtonInner-sc-14ud5tc-0 hvvTXU encore-bright-accent-set&quot;]</value>
+      <webElementGuid>f0d3b8b0-296e-415d-9846-18caaa79266b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='login-button']/span</value>
+      <webElementGuid>2ce90550-9cad-4991-9205-c3052cbae7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>a4ee4013-8044-4bbc-b6f4-5e62d1e4d41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or username'])[1]/following::span[3]</value>
+      <webElementGuid>2a0c8816-e1f1-4d36-a96c-84497ba7227c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>f3900b04-1c95-4dec-a1d1-841d612c9fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>37d7b78a-28dc-4e22-a056-174c8f322515</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign up</name>
+   <tag></tag>
+   <elementGuidId>c79b39e2-6842-48a3-b27c-48419a8f1259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ButtonInner-sc-14ud5tc-0.hvvTXU.encore-bright-accent-set</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/main/section/div/form/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;submit&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7968ddd6-1d9c-49f4-972f-7628412230b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ButtonInner-sc-14ud5tc-0 hvvTXU encore-bright-accent-set</value>
+      <webElementGuid>2fbe3a31-38f2-486d-b158-89f4b7e72f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up</value>
+      <webElementGuid>64f35f41-5a59-41cd-83f3-25dc5ecf9cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/main[@class=&quot;sc-ifyrTC sXlyP&quot;]/section[@class=&quot;sc-dENhDJ pTLoS&quot;]/div[@class=&quot;sc-eEPDDI iuoPVV&quot;]/form[@class=&quot;sc-jHofgq hutrlF&quot;]/div[@class=&quot;sc-blcnQh gXAYSM&quot;]/button[@class=&quot;Button-sc-qlcn5g-0 VsdHm encore-text-body-medium-bold&quot;]/span[@class=&quot;ButtonInner-sc-14ud5tc-0 hvvTXU encore-bright-accent-set&quot;]</value>
+      <webElementGuid>a6711183-fa2e-485e-9ecb-5c28490c42d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/main/section/div/form/div[2]/button/span</value>
+      <webElementGuid>330296c9-387a-4196-9145-01c3e49022ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions of Use'])[1]/following::span[2]</value>
+      <webElementGuid>d4634de2-9ae4-45b3-a933-6e4542c856e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::span[2]</value>
+      <webElementGuid>5ef644aa-fa0e-4f7f-96e6-6edfba7626f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Service'])[1]/preceding::span[2]</value>
+      <webElementGuid>36edeb0b-b720-491c-a5db-ff3c0bcb98c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign up']/parent::*</value>
+      <webElementGuid>14886cee-fb15-4ece-bd83-7150f64d7fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>af416c3f-5777-4e73-ad63-8c60e9e7dd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign up' or . = 'Sign up')]</value>
+      <webElementGuid>39c5d24c-66d4-4593-8192-6cea7c9b0181</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

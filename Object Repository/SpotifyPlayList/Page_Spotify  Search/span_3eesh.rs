@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3eesh</name>
+   <tag></tag>
+   <elementGuidId>59b66ef5-5d63-487f-abef-e321c3bcd5a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.CardTitle__LineClamp-sc-1h38un4-0.RBShQ > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='card-title-spotify:artist:2wZqG8Jm3HjtjT5UYwqKlD-0']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;artists-search-entity-shelf&quot;] >> internal:role=link[name=&quot;3eesh&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6594d2ee-444b-440b-89f1-c77ede3a1368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3eesh</value>
+      <webElementGuid>2fa3c114-94a1-406e-a62d-9fe5837ada92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-title-spotify:artist:2wZqG8Jm3HjtjT5UYwqKlD-0&quot;)/span[@class=&quot;CardTitle__LineClamp-sc-1h38un4-0 RBShQ&quot;]/span[1]</value>
+      <webElementGuid>67c7e22e-1cfb-4271-a6af-b0efda7725fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='card-title-spotify:artist:2wZqG8Jm3HjtjT5UYwqKlD-0']/span/span</value>
+      <webElementGuid>642ec0c2-2790-4f55-8240-00470ca6c320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artists'])[2]/following::span[4]</value>
+      <webElementGuid>f595b219-d2ca-4155-a456-20cfa5096c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abdul Majeed Abdullah'])[1]/following::span[7]</value>
+      <webElementGuid>008bef37-9594-465f-be68-e9decc52759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artist'])[1]/preceding::span[1]</value>
+      <webElementGuid>16466709-0e1d-47f1-a9d0-e1bfb7fe178e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Albums'])[2]/preceding::span[3]</value>
+      <webElementGuid>25e72ceb-5fc6-47e8-850f-6514100216ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span/span</value>
+      <webElementGuid>c33b1341-4ee1-4516-b0f5-6aa9f5a4e46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3eesh' or . = '3eesh')]</value>
+      <webElementGuid>347f81ae-f373-45a1-9f9c-f9de42382b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
